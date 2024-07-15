@@ -1,5 +1,5 @@
 # Todo App
-Command line Todo App.
+Command line Todo App in Java.
 
 ### Preview
 
