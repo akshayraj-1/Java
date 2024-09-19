@@ -3,7 +3,8 @@ import java.util.ArrayList;
 public class Main {
 
     public static final int MAX_TODO_LENGTH = 30;
-    public static TodoController todoController = new TodoController();
+    public static final TodoController todoController = new TodoController();
+
     public static void main(String[] args) {
 
         System.out.println("1 -> Add Todo \n2 -> Toggle Status \n3 -> Delete Todo \n4 -> Show Todos \n5 -> Exit");
